@@ -25,6 +25,8 @@ Requirements
 ------------
 In order to build slock you need the Xlib header files.
 
+Now requires `pam-devel`
+
 DO NOT PANIC!
 ------------
 - This blur effect does not crash
